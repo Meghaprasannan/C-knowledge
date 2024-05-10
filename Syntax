@@ -1,0 +1,10 @@
+using System;
+
+public class HelloWorld
+{
+    public static void Main(string[] args)
+    {
+        int n;
+        Console.WriteLine("What's your age?");
+    }
+}
