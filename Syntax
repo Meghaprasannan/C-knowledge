@@ -6,5 +6,6 @@ public class HelloWorld
     {
         int n;
         Console.WriteLine("What's your age?");
+        Console.ReadLine();
     }
 }
